@@ -1,0 +1,6 @@
+
+*.o
+*.obj
+*.d
+*.bin
+main
